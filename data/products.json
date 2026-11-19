@@ -1,0 +1,8 @@
+[
+  {"_id": 1, "name": "Riverbend Cruiser", "type": "bike", "price": {"$numberDecimal": "649.00"}, "stock": 1},
+  {"_id": 2, "name": "Trailhead Helmet", "type": "helmet", "price": {"$numberDecimal": "59.00"}, "stock": 12},
+  {"_id": 3, "name": "Beam 400 Light", "type": "light", "price": {"$numberDecimal": "34.00"}, "stock": 3},
+  {"_id": 4, "name": "Gravel Runner", "type": "bike", "price": {"$numberDecimal": "1199.00"}, "stock": 4},
+  {"_id": 5, "name": "Puddle Jumper 16", "type": "bike", "price": {"$numberDecimal": "189.00"}, "stock": 0},
+  {"_id": 6, "name": "Smooth Chain Oil", "type": "care", "price": {"$numberDecimal": "12.00"}, "stock": 30}
+]

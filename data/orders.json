@@ -1,0 +1,19 @@
+[
+  {"_id": 1001, "customerId": 7, "status": "placed", "orderedOn": {"$date": "2026-11-02T00:00:00Z"},
+   "lines": [
+     {"productId": 3, "name": "Beam 400 Light", "price": {"$numberDecimal": "34.00"}, "quantity": 2},
+     {"productId": 2, "name": "Trailhead Helmet", "price": {"$numberDecimal": "59.00"}, "quantity": 1}
+   ]},
+  {"_id": 1002, "customerId": 8, "status": "shipped", "orderedOn": {"$date": "2026-10-28T00:00:00Z"},
+   "lines": [
+     {"productId": 4, "name": "Gravel Runner", "price": {"$numberDecimal": "1199.00"}, "quantity": 1}
+   ]},
+  {"_id": 1003, "customerId": 7, "status": "shipped", "orderedOn": {"$date": "2026-10-15T00:00:00Z"},
+   "lines": [
+     {"productId": 6, "name": "Smooth Chain Oil", "price": {"$numberDecimal": "12.00"}, "quantity": 2}
+   ]},
+  {"_id": 1004, "customerId": 9, "status": "placed", "orderedOn": {"$date": "2026-11-16T00:00:00Z"},
+   "lines": [
+     {"productId": 3, "name": "Beam 400 Light", "price": {"$numberDecimal": "34.00"}, "quantity": 2}
+   ]}
+]
